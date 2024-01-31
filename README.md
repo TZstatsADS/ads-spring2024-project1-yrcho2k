@@ -9,10 +9,16 @@ This is the first and only *individual* (as opposed to *team*) this semester.
 
 Term: Fall 2023
 
-+ Projec title: Lorem ipsum dolor sit amet
-+ This project is conducted by [your name]
++ Project title: Is the happiness of individuals related to their marital status when experiencing happy moments?
++ This project is conducted by [Yerin Cho]
 
-+ Project summary: [a short summary] Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
++ Project Summary: This document contains curated questions and answers to determine if factors of happiness are related to demographics, such as age, gender, or marriage status. Initially, I preprocessed the raw textual data, 'cleaned_hm.csv,' located in the data file, by cleaning the data, eliminating stopwords, and producing a refined version of the texts. The resulting output file stores the tidy version of the texts. Subsequently, I merged the processed text with demographic information from 'demographic.csv,' found in the data file, to create the dataset utilized in this report.
+
++ Three topics will be covered in this document which are:
+
+1. Gender and Marriage.
+2. Happiness by Age Group.
+3. Age Group Associated with Marriage Status.
 
 Following [suggestions](http://nicercode.github.io/blog/2013-04-05-projects/) by [RICH FITZJOHN](http://nicercode.github.io/about/#Team) (@richfitz). This folder is orgarnized as follows.
 
